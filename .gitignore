@@ -83,3 +83,7 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+app/src/main/java/com/example/primerparcial/ui/CharacterAdapter.java
+app/src/main/res/layout/character_item.xml
+
